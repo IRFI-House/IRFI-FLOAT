@@ -48,5 +48,5 @@ Credit to **IRFI HOUSE** is required if used publicly.
 
 ## 🌍 Links
 
-- 🏗 GitHub Repository: `https://github.com/<yourname>/IRFI-FLOAT`
-- 🗨 Join the community: *(Your Discord link here)*
+- 🏗 GitHub Repository: `https://github.com/IRFI-HOUSE/IRFI-FLOAT`
+- 🗨 Join the community: https://discord.gg/CQKcaNjYAA
