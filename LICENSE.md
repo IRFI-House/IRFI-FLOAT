@@ -8,7 +8,7 @@ You are free to:
 Under the following terms:
 
 - 📌 **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
-  Example: “Mapping project by IRFI HOUSE — https://github.com/IRFI-House/IRFI-FLOAT”
+  Example: “Mapping project by IRFI HOUSE — [https://github.com/IRFI-House/IRFI-FLOAT](https://github.com/IRFI-House/IRFI-FLOAT/tree/main)”
 
 - ❌ **NonCommercial** — You may **not** use the material for commercial purposes.
 
