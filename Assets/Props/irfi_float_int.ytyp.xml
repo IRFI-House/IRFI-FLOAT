@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CMapTypes>
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-2.9639175" y="-3.1113067" z="-0.22051425" />
+      <bbMax x="2.9639175" y="3.1113067" z="0.2205143" />
+      <bsCentre x="0.0" y="0.0" z="2.2351742e-08" />
+      <bsRadius value="4.3027506" />
+      <hdTextureDist value="40" />
+      <name>irfi_float_plat2</name>
+      <textureDictionary>irfi_float_plat2</textureDictionary>
+      <physicsDictionary>irfi_float_plat2</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>irfi_float_plat2</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="0.0" y="0.0" z="0.0" />
+      <bbMax x="0.0" y="0.0" z="0.0" />
+      <bsCentre x="0.0" y="0.0" z="0.0" />
+      <bsRadius value="0" />
+      <hdTextureDist value="40" />
+      <name>irfi_float_plat3</name>
+      <textureDictionary>irfi_float_plat3</textureDictionary>
+      <physicsDictionary>irfi_float_plat3</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>irfi_float_plat3</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-2.750772" y="-2.750772" z="-1.0917755" />
+      <bbMax x="2.750772" y="2.750772" z="4.385559" />
+      <bsCentre x="0.0" y="0.0" z="1.6468918" />
+      <bsRadius value="4.7574983" />
+      <hdTextureDist value="40" />
+      <name>irfi_float_bar</name>
+      <textureDictionary>irfi_float_bar</textureDictionary>
+      <physicsDictionary>irfi_float_bar</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>irfi_float_bar</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-2.1526716" y="-2.0966582" z="0.010103344" />
+      <bbMax x="2.1526716" y="2.0966582" z="0.32017958" />
+      <bsCentre x="0.0" y="0.0" z="0.16514146" />
+      <bsRadius value="3.0089877" />
+      <hdTextureDist value="40" />
+      <name>irfi_float_plat1_lb</name>
+      <textureDictionary>irfi_float_plat1_lb</textureDictionary>
+      <physicsDictionary>irfi_float_plat1_lb</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>irfi_float_plat1_lb</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-2.1526716" y="-2.0966582" z="0.010103344" />
+      <bbMax x="2.1526716" y="2.0966582" z="0.32017958" />
+      <bsCentre x="0.0" y="0.0" z="0.16514146" />
+      <bsRadius value="3.0089877" />
+      <hdTextureDist value="40" />
+      <name>irfi_float_plat1_ly</name>
+      <textureDictionary>irfi_float_plat1_ly</textureDictionary>
+      <physicsDictionary>irfi_float_plat1_ly</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>irfi_float_plat1_ly</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-2.1526716" y="-2.0966582" z="0.010103344" />
+      <bbMax x="2.1526716" y="2.0966582" z="0.32017958" />
+      <bsCentre x="0.0" y="0.0" z="0.16514146" />
+      <bsRadius value="3.0089877" />
+      <hdTextureDist value="40" />
+      <name>irfi_float_plat1_lr</name>
+      <textureDictionary>irfi_float_plat1_lr</textureDictionary>
+      <physicsDictionary>irfi_float_plat1_lr</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>irfi_float_plat1_lr</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-4.154471" y="-16.294102" z="-1.9081836" />
+      <bbMax x="4.208793" y="14.778212" z="1.183125" />
+      <bsCentre x="0.027161121" y="-0.75794506" z="-0.36252928" />
+      <bsRadius value="16.163145" />
+      <hdTextureDist value="40" />
+      <name>irfi_float_pergola1</name>
+      <textureDictionary>irfi_float_pergola1</textureDictionary>
+      <physicsDictionary>irfi_float_pergola1</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>irfi_float_pergola1</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-2.3858068" y="-2.6451824" z="-4.4538345" />
+      <bbMax x="2.4109433" y="2.6280556" z="0.82655907" />
+      <bsCentre x="0.012568235" y="-0.008563399" z="-1.8136377" />
+      <bsRadius value="4.435606" />
+      <hdTextureDist value="40" />
+      <name>irfi_float_pergola2</name>
+      <textureDictionary>irfi_float_pergola2</textureDictionary>
+      <physicsDictionary>irfi_float_pergola2</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>irfi_float_pergola2</assetName>
+    </Item>
+  </archetypes>
+  <name>irfi_float_int</name>
+</CMapTypes>
